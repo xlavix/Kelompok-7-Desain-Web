@@ -15,7 +15,7 @@ nama "MedHub" bisa memberikan kesan yang kuat bahwa website ini adalah pusat inf
 -Fleksibilitas: Nama seperti "MedHub" dapat digunakan untuk berbagai jenis konten atau layanan di bidang medis, 
 seperti artikel informasi, layanan konsultasi, atau forum diskusi.
 -Kesederhanaan: Nama "MedHub" terdengar sederhana dan mudah diingat. Kesederhanaan adalah faktor penting dalam pemilihan nama, 
-karena memudahkan pengguna untuk mengingat dan mengakses website Anda.
+karena memudahkan pengguna untuk mengingat dan mengakses website.
 
 1.	Struktur Website
 Beranda
