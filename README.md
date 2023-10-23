@@ -45,5 +45,4 @@ https://www.figma.com/file/5sKPx1nHmS0SaxcCFVr04R/Desktop-Mockup?type=design&nod
 
 4. Presentasi
 Untuk link presentasi dapat dilihat dibawah ini :
->>>>>>> 493f9d2a1570cfd7d5996e599a7ca172260f02cb
 https://youtu.be/eNBHWq5H9mQ
