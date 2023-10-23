@@ -42,3 +42,7 @@ Hubungi Kami
 3.	Wireframe & Mockup
 Untuk wireframe & mockup bisa dilihat pada link dibawah ini :
 https://www.figma.com/files/project/74060596/MedHub-Project?fuid=1176736130495792312
+
+4. Presentasi
+Untuk link presentasi dapat dilihat dibawah ini :
+https://youtu.be/eNBHWq5H9mQ
