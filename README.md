@@ -15,7 +15,6 @@ Kesederhanaan: Nama "MedHub" terdengar sederhana dan mudah diingat. Kesederhanaa
 
 Kelengkapan: Kata "Hub" dalam nama bisa mengindikasikan bahwa website ini adalah tempat yang komprehensif dan lengkap, di mana pengguna dapat menemukan berbagai informasi atau layanan yang berkaitan dengan medis.
 
-
 1.	Struktur Website
 Beranda
 -	Banner “Selamat Datang di MedHub”
@@ -41,4 +40,7 @@ Hubungi Kami
 
 3.	Wireframe & Mockup
 Untuk wireframe & mockup bisa dilihat pada link dibawah ini :
-https://www.figma.com/files/project/74060596/MedHub-Project?fuid=1176736130495792312
+https://www.figma.com/file/5sKPx1nHmS0SaxcCFVr04R/Desktop-Mockup?type=design&node-id=0%3A1&mode=design&t=TxI5d4FVBPxqLOxP-1
+
+4. Presentasi Untuk link presentasi dapat dilihat dibawah ini : 
+https://youtu.be/eNBHWq5H9mQ
