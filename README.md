@@ -40,7 +40,10 @@ Hubungi Kami
 
 3.	Wireframe & Mockup
 Untuk wireframe & mockup bisa dilihat pada link dibawah ini :
+<<<<<<< HEAD
 https://www.figma.com/file/5sKPx1nHmS0SaxcCFVr04R/Desktop-Mockup?type=design&node-id=0%3A1&mode=design&t=TxI5d4FVBPxqLOxP-1
 
-4. Presentasi Untuk link presentasi dapat dilihat dibawah ini : 
+4. Presentasi
+Untuk link presentasi dapat dilihat dibawah ini :
+>>>>>>> 493f9d2a1570cfd7d5996e599a7ca172260f02cb
 https://youtu.be/eNBHWq5H9mQ
