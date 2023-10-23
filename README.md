@@ -7,6 +7,15 @@
 # Akhmad Rizaldy - 4522210050
 # Muhamad Farhan - 4522210057
 
+Pemilihan nama untuk sebuah website atau bisnis sangat penting, karena nama tersebut akan menjadi identitas dan merek yang merepresentasikan platform Anda. Pemilihan nama "MedHub" untuk website bisa memiliki beberapa alasan yang kuat, tergantung pada tujuan dan konten dari website tersebut. Berikut beberapa alasan yang mungkin:
+
+Keterkaitan dengan Konten: Jika website Anda berfokus pada informasi atau layanan di bidang medis atau kesehatan, nama "MedHub" bisa memberikan kesan yang kuat bahwa website ini adalah pusat informasi atau sumber utama untuk semua hal yang berkaitan dengan kesehatan dan kedokteran.
+
+Kesederhanaan: Nama "MedHub" terdengar sederhana dan mudah diingat. Kesederhanaan adalah faktor penting dalam pemilihan nama, karena memudahkan pengguna untuk mengingat dan mengakses website Anda.
+
+Kelengkapan: Kata "Hub" dalam nama bisa mengindikasikan bahwa website ini adalah tempat yang komprehensif dan lengkap, di mana pengguna dapat menemukan berbagai informasi atau layanan yang berkaitan dengan medis.
+
+
 1.	Struktur Website
 Beranda
 -	Banner “Selamat Datang di MedHub”
